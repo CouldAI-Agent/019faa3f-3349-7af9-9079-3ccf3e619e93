@@ -96,7 +96,7 @@ class LoginScreen extends StatelessWidget {
                 const SizedBox(height: 16),
                 TextButton(
                   onPressed: () {},
-                  child: const Text('Don\\'t have an account? Register'),
+                  child: const Text("Don't have an account? Register"),
                 ),
               ],
             ),
